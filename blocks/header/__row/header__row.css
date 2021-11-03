@@ -1,0 +1,24 @@
+.header__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 80px;
+}
+
+@media (max-width: 1024px) {
+  .header__row {
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header__row {
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 320px) {
+  .header__row {
+    max-width: 288px;
+  }
+}
