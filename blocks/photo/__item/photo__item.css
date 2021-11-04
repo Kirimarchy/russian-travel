@@ -1,5 +1,5 @@
 .photo__item {
-  width: 284px;
+  max-width: 284px;
 }
 
 @media (max-width: 1024px) {
