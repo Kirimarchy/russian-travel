@@ -8,11 +8,19 @@
   text-align: center;
 }
 
+
+@media (max-width: 768px) {
+  .lead__title {
+    margin-top: 48px;
+  }
+}
+
+
 @media (max-width: 320px) {
   .lead__title {
     max-width: 288px;
     font-size: 40px;
     line-height: 44px;
-    margin: 48px auto 0;
+    margin-top: 48px;
   }
 }
