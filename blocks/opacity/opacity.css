@@ -4,7 +4,7 @@
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
-  min-height: 740px;
+  height: 100%;
   width: 100%;
   position: absolute;
   background: rgba(42, 44, 47, 0.3);

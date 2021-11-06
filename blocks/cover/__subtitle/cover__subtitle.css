@@ -11,3 +11,11 @@
   color: #ffffff;
   z-index: 2;
 }
+
+@media (max-width: 320px) {
+  .cover__subtitle {
+    max-width: 246px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
