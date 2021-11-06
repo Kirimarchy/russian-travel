@@ -13,9 +13,9 @@
 **Технологии**
 1.Figma;
 2. Grid Layout;
-3. Mediaqueries;
+3. Media queries;
 4.Git.
 
 **Ссылка на проект**
 
-* [Ссылка на проект в GitHub Pages](https://kirimarchy.github.io/russian-travel/)
+* [Ссылка на проект в GitHub Pages](https://kirimarchy.github.io/russian-travel/index.html )
