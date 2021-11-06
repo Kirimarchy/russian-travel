@@ -10,5 +10,6 @@
   .footer__content {
     margin-top: 64px;
     flex-direction: column;
+    margin-right: 90px;
   }
 }
