@@ -12,13 +12,13 @@
 }
 
 @media (max-width: 768px) {
-  .cover__background {
-    background-repeat: no-repeat;
-    width: 100%;
+.cover__background {
+  background-repeat: no-repeat;
+  width: 100%;
 }
 
 @media (max-width: 320px) {
-  .cover__background {
-    background-repeat: no-repeat;
-    min-height: 200px;
+.cover__background {
+  background-repeat: no-repeat;
+  min-height: 200px;
   }
