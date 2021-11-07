@@ -18,7 +18,12 @@
 }
 
 @media (max-width: 320px) {
-.cover__background {
-  background-repeat: no-repeat;
-  min-height: 200px;
-  }
+  .cover__background {
+    background-repeat: no-repeat;
+    min-height: 200px;
+    }
+
+
+
+
+
