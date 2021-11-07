@@ -15,6 +15,7 @@
 .cover__background {
   background-repeat: no-repeat;
   width: 100%;
+  }
 }
 
 @media (max-width: 320px) {
