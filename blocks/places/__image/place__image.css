@@ -1,17 +1,15 @@
 .place__image {
   max-width: 440px;
   object-fit: cover;
-  /*max-width: 460px;
-  object-fit: cover;*/
   grid-area: image;
 }
 
-@media (max-width: 1024px) {
+/*@media (max-width: 1024px) {
   .place__image {
     max-width: 440px;
   }
 }
-
+*/
 @media (max-width: 768px) {
   .place__image {
     max-width: 340px;

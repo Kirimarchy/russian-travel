@@ -3,28 +3,37 @@
   justify-content: space-between;
   align-items: center;
   min-height: 80px;
+  margin: 0 auto;
 }
 
 @media (max-width: 1280px) {
   .header__row {
     max-width: 1184px;
+    margin: 0 auto;
+}
   }
 }
 
 @media (max-width: 1024px) {
   .header__row {
     max-width: 928px;
+    margin: 0 auto;
+}
   }
 }
 
 @media (max-width: 768px) {
   .header__row {
     max-width: 720px;
+    margin: 0 auto;
+}
   }
 }
 
 @media (max-width: 320px) {
   .header__row {
     max-width: 288px;
+    margin: 0 auto;
+}
   }
 }
