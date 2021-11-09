@@ -10,7 +10,6 @@
   .header__row {
     max-width: 1184px;
     margin: 0 auto;
-}
   }
 }
 
@@ -18,7 +17,6 @@
   .header__row {
     max-width: 928px;
     margin: 0 auto;
-}
   }
 }
 
@@ -26,7 +24,6 @@
   .header__row {
     max-width: 720px;
     margin: 0 auto;
-}
   }
 }
 
@@ -34,6 +31,5 @@
   .header__row {
     max-width: 288px;
     margin: 0 auto;
-}
   }
 }
