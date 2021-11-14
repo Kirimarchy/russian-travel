@@ -1,13 +1,14 @@
 .footer__copyright {
-  font-weight: regular;
+  margin: 0;
+  max-width: 320px;
+  font-weight: 400;
   font-size: 14px;
   line-height: 16px;
   color: #ffffff;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 475px) {
   .footer__copyright {
     margin-top: 48px;
-    box-sizing: border-box;
   }
 }

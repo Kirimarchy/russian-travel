@@ -1,4 +1,6 @@
 .lead__title {
+  display: inline-block;
+  margin: 0;
   max-width: 720px;
   margin: 56px auto 0;
   font-size: 96px;
@@ -13,17 +15,27 @@
     margin-top: 48px;
   }
 }
-@media (max-width: 768px) {
+
+@media (max-width: 700px) {
   .lead__title {
-    margin-top: 48px;
+    max-width: 620px;
+    font-size: 76px;
+    line-height: 80px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 550px) {
+  .lead__title {
+    max-width: 440px;
+    font-size: 50px;
+    line-height: 54px;
+  }
+}
+
+@media (max-width: 475px) {
   .lead__title {
     max-width: 288px;
     font-size: 40px;
     line-height: 44px;
-    margin-top: 48px;
   }
 }

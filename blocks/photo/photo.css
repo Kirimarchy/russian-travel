@@ -24,14 +24,16 @@
     grid-template-rows: repeat(6, 1fr);
     justify-content: center;
     grid-gap: 16px;
+    margin-bottom: 88px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 475px) {
   .photo {
     max-width: 288px;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(12, 1fr);
     grid-gap: 12px;
+    margin-bottom: 64px;
   }
 }

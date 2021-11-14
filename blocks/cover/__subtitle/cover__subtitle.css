@@ -2,11 +2,12 @@
   padding: 0;
   margin: 0;
   max-width: 360px;
-  font-weight: regular;
+  font-weight: 400;
   font-size: 18px;
   line-height: 22px;
   text-align: center;
   color: #ffffff;
+  z-index: 2;
 }
 
 @media (max-width: 320px) {

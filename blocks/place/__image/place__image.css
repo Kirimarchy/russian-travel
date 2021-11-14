@@ -11,12 +11,6 @@
 }
 @media (max-width: 475px) {
   .place__image {
-    max-width: 340px;
-  }
-}
-
-@media (max-width: 320px) {
-  .place__image {
     max-width: 320px;
   }
 }

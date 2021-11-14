@@ -47,12 +47,11 @@
 
 @media (max-width: 768px) {
   .cover__background {
-    width: 100%;
     min-height: 480px;
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 475px) {
   .cover__background {
     min-height: 200px;
   }
