@@ -60,7 +60,6 @@
   .place {
     max-width: 320px;
     margin-top: 50px;
-    max-width: 320px;
     grid-template-columns: 1fr;
     grid-template-areas:
       "title"
